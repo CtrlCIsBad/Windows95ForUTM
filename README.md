@@ -25,3 +25,11 @@ It has a legal, valid product key.
 
 If you are using the pre-installed .utm file, just boot into windows 95.
 
+<img width="1290" height="2796" alt="IMG_6966" src="https://github.com/user-attachments/assets/c284a4b0-bd65-4b32-bceb-cd2ee214c8fa" />
+
+Let it boot!
+<img width="645" height="1398" alt="IMG_6968" src="https://github.com/user-attachments/assets/db1cee14-0df8-4cce-aaef-c199d17fb483" />
+
+Now, you will hear that iconic windows 95 boot chime.
+
+Then, you can do retro gaming, etc.<img width="645" height="1398" alt="IMG_6969" src="https://github.com/user-attachments/assets/bd68a5d1-ec94-45da-8e15-c100917b7db9" />
