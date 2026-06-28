@@ -18,9 +18,13 @@ Now, tap the plus button in UTM.<img width="1290" height="2796" alt="IMG_6953" s
 It will redirect you to a menu. Now in that menu, tap open.<img width="1290" height="2796" alt="IMG_6955" src="https://github.com/user-attachments/assets/4ade6224-583e-4713-86ca-460b78711d64" />
 Now it will redirect you to Files. Locate the UTM Folder and tap Windows 95 Pre-installed if you want to skip downloading an .iso and get straight to windows 95, or tap Windows 95 Pre-configured if you want to continue througj the windows setup, though you need to download an .iso. I will give the link of the iso later. For example I selected Windows 95 Pre-installed.<img width="1290" height="2796" alt="IMG_6958" src="https://github.com/user-attachments/assets/874af2e2-796e-4b50-b221-f1b931482b55" />
 Ignore this warning.<img width="1290" height="2796" alt="IMG_6959" src="https://github.com/user-attachments/assets/f8baea49-c002-41f4-b53d-c77b9eb99b07" />
-Now if you selected pre-configured, you have to put your iso at cd-dvd. An iso i recommend you get is this one: https://archive.org/details/win-95-osr-2 
+Now if you selected pre-configured, you have to put your iso at cd-dvd. An iso i recommend you get is this one: <img width="1290" height="2796" alt="IMG_6966" src="https://github.com/user-attachments/assets/b2626ecd-f726-4665-900d-56605ddf67c7" />
+<img width="1290" height="2796" alt="IMG_6966" src="https://github.com/user-attachments/assets/33026995-0e17-4297-a532-85bc603ba0c7" />
+<img width="1290" height="2796" alt="IMG_6966" src="https://github.com/user-attachments/assets/b109c62b-08ca-4b00-aae2-c7a63695adae" />
+https://archive.org/details/win-95-osr-2 
 
 It has a legal, valid product key.
 <img width="1290" height="2796" alt="IMG_6961" src="https://github.com/user-attachments/assets/3572f284-c17f-4d0b-abd6-3fa6c3d53a4e" />
 
 If you are using the pre-installed .utm file, just boot into windows 95.
+
