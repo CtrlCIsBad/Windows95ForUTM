@@ -33,3 +33,15 @@ Let it boot!
 Now, you will hear that iconic windows 95 boot chime.
 
 Then, you can do retro gaming, etc.<img width="645" height="1398" alt="IMG_6969" src="https://github.com/user-attachments/assets/bd68a5d1-ec94-45da-8e15-c100917b7db9" />
+
+### Important Notes
+I have disabled networking by default because Windows 95 is ancient and lacks modern security. Enabling it exposes the VM to major security flaws. If you turn it on, malware inside the VM could try to scan your local network or target your router's IP address. For iOS and iPadOS users, Apple's strict sandboxing prevents the VM from accessing personal data like your messages or photos. However, running an unencrypted, legacy network stack on a Mac carries higher security risks for the host machine. These risks generally trigger only if you visit unsafe websites using Internet Explorer or run untrusted files inside Windows 95. If you choose to enable networking, you do so knowing these risks. The author bears absolutely zero responsibility for any security issues, network disruptions, or compromises to your Mac, iPhone, or local network. Proceed entirely at your OWN risk
+
+### Enabling Networking (Please proceed at your own risk)
+Step 1: Select Windows 95 2
+Step 2: Click on the bottom right button
+Step 3: Click on the + icon
+Step 4: Select Netowrk
+Step 5: Select ne2k_isa
+Then boot the vm, and you will have networking.
+If you want me to update the readme (if it has spelling mistakes) please open an issue.
