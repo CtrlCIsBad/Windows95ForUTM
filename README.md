@@ -6,7 +6,7 @@ Hi so this is my first repository if you are having any problems in the .utm fil
 "It is possible to invent a single machine which can be used to compute any computable sequence."
 --Alan Turing, 1936
 
-UTM is a emulator based of QEMU. It is available in macOS, iOS, and iPadOS. 
+UTM is a emulator based of off QEMU. It is available in macOS, iOS, and iPadOS. 
 After following this readme, you will be anle to run Windows 95 in a MacBook/iMac, an iPhone, and an iPad. An interesting fact is that UTM is available in the app store, named UTM SE. SE means for slow edition, which basically uses qemu's tcg intrepreter (which is very slow.). Meanwhile on the other hand, UTM sideloaded uses JIT, which helps to increase speed in the VM by using dynamic code execution in the CPU. In a mac, UTM uses apple's own virtualization firmware to make the VM fast as it possibly can be.
 
 ### How can I run Windows 95 in my iPhone/iPad?
@@ -23,3 +23,4 @@ Now if you selected pre-configured, you have to put your iso at cd-dvd. An iso i
 It has a legal, valid product key.
 <img width="1290" height="2796" alt="IMG_6961" src="https://github.com/user-attachments/assets/3572f284-c17f-4d0b-abd6-3fa6c3d53a4e" />
 
+If you are using the pre-installed .utm file, just boot into windows 95.
