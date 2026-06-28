@@ -16,4 +16,7 @@ For example in this tutorial i will be using UTM SE.
 First, open UTM/UTM SE in your iDevice.
 Now, tap the plus button in UTM.<img width="1290" height="2796" alt="IMG_6953" src="https://github.com/user-attachments/assets/dbc18d71-9968-4a95-8342-16f11831ae93" />
 It will redirect you to a menu. Now in that menu, tap open.<img width="1290" height="2796" alt="IMG_6955" src="https://github.com/user-attachments/assets/4ade6224-583e-4713-86ca-460b78711d64" />
+Now it will redirect you to Files. Locate the UTM Folder and tap Windows 95 Pre-installed if you want to skip downloading an .iso and get straight to windows 95, or tap Windows 95 Pre-configured if you want to continue througj the windows setup, though you need to download an .iso. I will give the link of the iso later. For example I selected Windows 95 Pre-installed.<img width="1290" height="2796" alt="IMG_6958" src="https://github.com/user-attachments/assets/874af2e2-796e-4b50-b221-f1b931482b55" />
+Ignore this warning.<img width="1290" height="2796" alt="IMG_6959" src="https://github.com/user-attachments/assets/f8baea49-c002-41f4-b53d-c77b9eb99b07" />
+
 
