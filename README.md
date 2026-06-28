@@ -15,3 +15,5 @@ First, you need to download UTM SE from the app store or sideload UTM from AltSt
 For example in this tutorial i will be using UTM SE.
 First, open UTM/UTM SE in your iDevice.
 Now, tap the plus button in UTM.<img width="1290" height="2796" alt="IMG_6953" src="https://github.com/user-attachments/assets/dbc18d71-9968-4a95-8342-16f11831ae93" />
+It will redirect you to a menu. Now in that menu, tap open.<img width="1290" height="2796" alt="IMG_6955" src="https://github.com/user-attachments/assets/4ade6224-583e-4713-86ca-460b78711d64" />
+
