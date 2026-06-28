@@ -21,9 +21,6 @@ Ignore this warning.<img width="1290" height="2796" alt="IMG_6959" src="https://
 Now if you selected pre-configured, you have to put your iso at cd-dvd. An iso i recommend you get is this one: https://archive.org/details/win-95-osr-2 
 
 It has a legal, valid product key.
-<img width="1290" height="2796" alt="IMG_6966" src="https://github.com/user-attachments/assets/b2626ecd-f726-4665-900d-56605ddf67c7" />
-<img width="1290" height="2796" alt="IMG_6966" src="https://github.com/user-attachments/assets/33026995-0e17-4297-a532-85bc603ba0c7" />
-<img width="1290" height="2796" alt="IMG_6966" src="https://github.com/user-attachments/assets/b109c62b-08ca-4b00-aae2-c7a63695adae" />
 <img width="1290" height="2796" alt="IMG_6961" src="https://github.com/user-attachments/assets/3572f284-c17f-4d0b-abd6-3fa6c3d53a4e" />
 
 If you are using the pre-installed .utm file, just boot into windows 95.
